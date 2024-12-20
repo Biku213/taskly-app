@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#1E88E5</color>         <!-- Material Blue 600 -->
+    <color name="secondary_teal">#00ACC1</color>       <!-- Material Cyan 600 -->
+    <color name="accent_orange">#FF7043</color>        <!-- Material Deep Orange 400 -->
+    <color name="bright_yellow">#FFB300</color>        <!-- Material Amber 600 -->
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="Platinum">#F5F5F5</color>            <!-- Light gray background -->
+    <color name="background_gray">#FAFAFA</color>      <!-- Slightly off-white -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>         <!-- Dark gray for primary text -->
+    <color name="text_secondary">#757575</color>       <!-- Medium gray for secondary text -->
+    <color name="midnight_blue">#2C3E50</color>        <!-- Dark blue-gray for inputs -->
+</resources>
