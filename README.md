@@ -61,11 +61,8 @@ This application was created while learning:
 
 ## Demo
 
-[Click here to watch the demo video](#) <!-- Replace with actual demo video link -->
+https://github.com/user-attachments/assets/4db18a39-bced-4957-9502-82a8a8d6b98c
 
-## Screenshots
-
-<!-- Add screenshots here -->
 
 ## Requirements
 
@@ -78,7 +75,7 @@ This application was created while learning:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/taskly.git
+git clone https://github.com/Biku213/taskly-app.git
 ```
 
 2. Open the project in Android Studio
@@ -107,27 +104,9 @@ git clone https://github.com/yourusername/taskly.git
 
 4. Build the project using the "Build" menu or the provided Gradle tasks
 
-## Contributing
-
-If you'd like to contribute to this learning project:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Thanks to the Kotlin and Android development communities for their excellent documentation and resources
 - This project was created as part of learning Android development with Kotlin
 
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/taskly](https://github.com/yourusername/taskly)
